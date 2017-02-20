@@ -72,12 +72,7 @@ namespace CRMCleaner.Processes
             //}
         }
 
-        private DataTable getPostChangeListing()
-        {
-            throw new NotImplementedException();
-        }
-
-        private DataTable getDataToSync()
+       private DataTable getDataToSync()
         {
             DataTable output = new DataTable();
             using (SqlConnection conn = new SqlConnection(ConfigurationSettings.AppSettings["CRM"].ToString()))

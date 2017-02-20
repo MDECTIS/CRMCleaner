@@ -41,3 +41,14 @@ I:\Developments\MDEC\CRM&WizardSync\CRMCleaner\CRMCleaner\bin\Debug\ClosedXML.xm
 I:\Developments\MDEC\CRM&WizardSync\CRMCleaner\CRMCleaner\obj\Debug\CRMCleaner.exe
 I:\Developments\MDEC\CRM&WizardSync\CRMCleaner\CRMCleaner\obj\Debug\CRMCleaner.pdb
 I:\Developments\MDEC\CRM&WizardSync\CRMCleaner\CRMCleaner\obj\Debug\CRMCleaner.csprojResolveAssemblyReference.cache
+I:\Source Codes\CRMCleaner\bin\Debug\CRMCleaner.exe.config
+I:\Source Codes\CRMCleaner\obj\Debug\CRMCleaner.exe
+I:\Source Codes\CRMCleaner\obj\Debug\CRMCleaner.pdb
+I:\Source Codes\CRMCleaner\bin\Debug\CRMCleaner.exe
+I:\Source Codes\CRMCleaner\bin\Debug\CRMCleaner.pdb
+I:\Source Codes\CRMCleaner\bin\Debug\AccelTeam.Utilities.dll
+I:\Source Codes\CRMCleaner\bin\Debug\BOL.dll
+I:\Source Codes\CRMCleaner\bin\Debug\ClosedXML.dll
+I:\Source Codes\CRMCleaner\bin\Debug\DocumentFormat.OpenXml.dll
+I:\Source Codes\CRMCleaner\bin\Debug\ClosedXML.xml
+I:\Source Codes\CRMCleaner\obj\Debug\CRMCleaner.csprojResolveAssemblyReference.cache
