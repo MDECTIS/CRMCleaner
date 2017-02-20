@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CRMCleaner.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CRM_PRDConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=10.9.113.28;Initial Catalog=CRM_PRD;User ID=crmapp;Password=md3c</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
